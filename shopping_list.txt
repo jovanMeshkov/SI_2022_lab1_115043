@@ -3,3 +3,4 @@ fanta x 5
 sprite x 1
 cocta-zero x 6
 schweppes x 2
+sinalco x 3
