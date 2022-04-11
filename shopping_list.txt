@@ -1,5 +1,5 @@
-coca cola
-fanta
-sprite
-cocta
-schweppes
+coca cola x 3
+fanta x 2
+sprite x 1
+cocta x 6
+schweppes x 8
