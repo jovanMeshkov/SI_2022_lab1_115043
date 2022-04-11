@@ -16,3 +16,18 @@ git commit -m "<message>"
 git checkout -b <branch-name>
 - прави нова локална гранка
 
+git commit -m "Change quantity of item #5"
+
+git push origin
+
+git push origin branch1
+
+git push origin branch2
+
+git add .
+
+git commit -m "Modify item #4"
+
+git add .
+
+git commit -m "Modify item #4 and add item #6"

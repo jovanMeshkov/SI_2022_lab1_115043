@@ -1,5 +1,6 @@
 coca cola x 3
 fanta x 5
 sprite x 1
-cocta x 6
+cocta-zero x 6
 schweppes x 2
+sinalco x 3
